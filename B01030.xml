@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Cautels preservatory concerning the preservation of the gods which are kept in the pyx]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1548</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01030</idno>
+            <idno type="STC">STC 4877.2</idno>
+            <idno type="STC">ESTC S96002</idno>
+            <idno type="EEBO-CITATION">56572821</idno>
+            <idno type="OCLC">ocm 56572821</idno>
+            <idno type="VID">180927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2145:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Cautels preservatory concerning the preservation of the gods which are kept in the pyx]</title>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London</pubPlace>
+                  <date>1548?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Signatures: A⁸.</note>
+                  <note>Imperfect: title page (A₁) lacking; title, place, and date from STC (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Bread --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180927:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <p>
+               <seg rend="decorInit">F</seg>Or aſmuche as I ſe that moſt me<g ref="char:cmbAbbrStroke">̄</g> in theyr ſience be diligent and circumſpecte as craftes men in their oc<g ref="char:EOLunhyphen"/>cupacions dooe exquiſitly laboure and ſearche out the knowledge not onely of workemanſhippe and con<g ref="char:EOLhyphen"/>nynge: but as well of the order and preſeruinge of the ſtuffe and mater whereof they ſhall frame and faſſi<g ref="char:EOLhyphen"/>on theyr worke, ye and when it is wrought and finiſhed, to the perfec<g ref="char:EOLhyphen"/>tion of theyr forecaſte or imagina<g ref="char:EOLhyphen"/>tion: they do not lyghtly and negli<g ref="char:EOLhyphen"/>gently regard the ſame worke, But lyke as they dyd before ſtudye to bring to paſſe and to performe their workemanſhippe and take paynes in practiſynge thereof: Euen ſo wil they ſtudie and loke for the preſer<g ref="char:EOLhyphen"/>uacion of the ſame that the thynge where wyth they haue ſo muche la<g ref="char:EOLhyphen"/>boured &amp; broken theyr witte ſhould not by ſlouth and recheleſſe lokeing to, be ſuffered to decaye in a ſhorte
+<pb facs="tcp:180927:2"/>
+               <!-- PDF PAGE 41 -->ſpace: I maruaile therfore that you who are of y<hi rend="sup">e</hi> moſt high ſcience or ar<g ref="char:EOLhyphen"/>tifice y<hi rend="sup">e</hi> as ye ſay your ſelues are not workres only of worldli thiges. But alſo the workers of the great worke man &amp; makers of the greate maker whom ye can make &amp; faſſio<g ref="char:cmbAbbrStroke">̄</g> at your owne wyl and pleaſures: wil not re<g ref="char:EOLhyphen"/>garde the workes y<hi rend="sup">e</hi> ye make (which oughte moſte worthily to be preſer<g ref="char:EOLhyphen"/>ued from anye diſpayre or corrupti<g ref="char:EOLhyphen"/>on (if it be as you ſaye) but let your gods whom ye haue made corrupt, molde, ſtinke, rotte, muſte, cleaue to<g ref="char:EOLhyphen"/>gether bred wormes w<hi rend="sup">t</hi> diuerſe other miſhappes, as ſome time to be eaten of a mouſe, ratte or munkay &amp; to be borne away of robin redbreſt or phi<g ref="char:EOLunhyphen"/>lip Sparowe the whiche woulde greue any manes or womans hert (whoe beleuethe in the ſame greate God of youre makeinge) and cau<g ref="char:EOLhyphen"/>ſeth many to forſake y<hi rend="sup">e</hi> fayth which they had in him and all thys is by youre owne foly and ſlender ouer<g ref="char:EOLhyphen"/>ſight.
+<pb facs="tcp:180927:2"/>
+               <!-- PDF PAGE 41 -->Wherefore yeare much wor<g ref="char:EOLhyphen"/>thy diſprayſe amonge al other craf<g ref="char:EOLhyphen"/>tes men. Men ſe dayly how the ap<g ref="char:EOLhyphen"/>pothecaries and groſſers in theyr occupiynges haue waies and mea<g ref="char:EOLhyphen"/>nes to co<g ref="char:cmbAbbrStroke">̄</g>ſerue and preſerue diuerſe thynges as fruites rotes &amp; herbes.</p>
+            <p>Thei preſerue Damaſene prunes, cheres, Quinces, peachis, peares, Oliues, Cappars, Orenges wal<g ref="char:EOLhyphen"/>nuttes, melons, Citrones &amp; manye other thynges wherin they be wor<g ref="char:EOLhyphen"/>thie to be co<g ref="char:cmbAbbrStroke">̄</g>mendid &amp; ye co<g ref="char:cmbAbbrStroke">̄</g>trariwiſe are worthy to be diſco<g ref="char:cmbAbbrStroke">̄</g>mendid, yea rather to be greately: puniſhed be<g ref="char:EOLhyphen"/>cauſe, ye be no more ſtudious in y<hi rend="sup">e</hi> 
+               <g ref="char:abpre">p̄</g>ſeruing of youre God fro<g ref="char:cmbAbbrStroke">̄</g> filthe and putrifactio<g ref="char:cmbAbbrStroke">̄</g>. The which god you ſay is not only y<hi rend="sup">e</hi> creator of herbes frui<g ref="char:EOLhyphen"/>tes rotes &amp; al other like? but aſwel of y<hi rend="sup">e</hi> appoticaries &amp; groſſers the<g ref="char:cmbAbbrStroke">̄</g> ſelues &amp; all other, yea &amp; y<hi rend="sup">e</hi> creator &amp; maker of you alſo. Though you make him whi do ye not therfore find ſo<g ref="char:cmbAbbrStroke">̄</g>e wais how to kepe him ſwet, but let him pe<g ref="char:EOLhyphen"/>riſhe
+<pb facs="tcp:180927:3"/>
+               <!-- PDF PAGE 42 -->ſo vilely howe wyll you haue men to beleue in hym as in a God when ye youre ſelues ſet ſo lyght by him that he wyll not take the paine to kepe hym ſwete and cleane from filthines.</p>
+            <p>And thoughe ye can make newe when the olde be rotten and burned or buried, yet I woulde not haue you ſo rechels and ſlouenly aboute them as ye be al the ſorte of you, but to be as net fyne and Ielous ouer them as ye maye be, leſte the people (ſeinge youre ſlouenly and ſowter<g ref="char:EOLhyphen"/>ly faction aboute them) regard no<g ref="char:EOLhyphen"/>ther youre goddes nor you that are the makers of them.</p>
+            <p>And becauſe ye ſhall the eaſlier and ſoner attayne the knowledge of the preſeruacion of them: I inted in thys lytell worke to preſcribe to you the order therof wherby ye may alſo auoide and put by the hanous infamy obloquie &amp; ſlaunder whych both your godes &amp; you the makers
+<pb facs="tcp:180927:3"/>
+               <!-- PDF PAGE 42 -->of the<g ref="char:cmbAbbrStroke">̄</g> do daiely ſuſtayne and heare, (I feare me) to youre vtter exinani<g ref="char:EOLhyphen"/>cion, and derogation of all youre greate power of God makinge and to thentent that ye maye the rather find the waies to preuente the ſame I haue compoſed thys lytell boke for you to beare in youre handes or in your boſomes as a neceſſary v<g ref="char:EOLhyphen"/>tenſile concerninge youre craft and occupacion, wherein be conteyned theſe rules folowinge.</p>
+            <p>
+               <g ref="char:leaf">❧</g> Firſte it is requiſite that ye ſhoulde knowe whether the wafer maker be an honeſt man, &amp; of good conſcience, and co<g ref="char:cmbAbbrStroke">̄</g>nyng in the feate, or no, for by his vnco<g ref="char:cmbAbbrStroke">̄</g>ninge or coue<g ref="char:EOLhyphen"/>touſnes he maye be a great cauſe of the decaye of the<g ref="char:cmbAbbrStroke">̄</g>. As if he make the<g ref="char:cmbAbbrStroke">̄</g> of muſty wheate, or make hys bat<g ref="char:EOLhyphen"/>ter to thynne for couetuouſnes. Or if by recheleſnes take not head whe<g ref="char:EOLunhyphen"/>ther hys Irons be hote inoughe or to coulde, for ſo by ſlackenes of ba<g ref="char:EOLhyphen"/>kynge maye they be the ſouer mu<g ref="char:EOLhyphen"/>ſtys
+<pb facs="tcp:180927:4"/>
+               <!-- PDF PAGE 43 -->and hore mouldyd.</p>
+            <p>Item ye ſhal haue a cloſe boxe to put them in and that ſhal ye ſette in youre chimneis ende to kepe them drye til ye ſhall co<g ref="char:cmbAbbrStroke">̄</g>ſecrate them. And this is to be done in y<hi rend="sup">e</hi> winter quar<g ref="char:EOLhyphen"/>ter, or rainy and foggy whether.</p>
+            <p>Item ye muſt choſe of the faireſt roundeſt and whighteſte, or elles if neade be ye maye clip them rounde with a payer of ſheres, or pare them with a ſharpe knife. The clippinge or paringes whereof, maye paruen<g ref="char:EOLhyphen"/>ture be a refreſhing to youre clarke or to the boye that healpeth you to ſaye Maſſe.</p>
+            <p>Item it ſhalbe neadefull for you when ye be in conſecratyng, to blow or breath as nicely and featly as ye may deuiſe, leſte by youre much bre<g ref="char:EOLunhyphen"/>thinge and anhelation ye myght ir<g ref="char:EOLhyphen"/>roate &amp; enmyſt themſo much, y<hi rend="sup">e</hi> they ſhall neuer be ſwete or good after.</p>
+            <p>Item it behoueth not hym that hath a ſtinkinge breath or pthiſike
+<pb facs="tcp:180927:4"/>
+               <!-- PDF PAGE 43 -->or apoſteme in hys longes or ſto<g ref="char:EOLhyphen"/>make, or hath the pokkes to blowe or breath ſo much on the<g ref="char:cmbAbbrStroke">̄</g> as he that hath not, for by ſuch ſtinkinge exha<g ref="char:EOLunhyphen"/>lacions and out breathinges youre goddes are ſo corrupte and infecte, that they be corrupted and infectu<g ref="char:EOLhyphen"/>ous both to body and ſoule of them that eate them as their God.</p>
+            <p>Ite<g ref="char:cmbAbbrStroke">̄</g> ye ought (as neare as ye may) to conſecreate on a fayre cleare &amp; ſu<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ny day for if the aire be moiſt darke or miſty they will become the ſoner fautie. And what by corrupte brea<g ref="char:EOLhyphen"/>thynge and whether together, they may be ſo muche danke and ſoddy, that they wyll neuer be broughte to good, and ſo your laboure conning ſtuffe and all is but loſte.</p>
+            <p>Item it will become you to loke to them often, leaſte they ron to far into putrificacion. Prouided alway that ye do it in cleare whether.</p>
+            <p>Item reme<g ref="char:cmbAbbrStroke">̄</g>ber y<hi rend="sup">e</hi> ye torne the<g ref="char:cmbAbbrStroke">̄</g> &amp; re<g ref="char:EOLhyphen"/>moue them; for cleauyng together</p>
+            <pb facs="tcp:180927:5"/>
+            <!-- PDF PAGE 44 -->
+            <p>Item if it be ſo y<hi rend="sup">e</hi> they be molde of any thing cla<g ref="char:cmbAbbrStroke">̄</g>my (as ofte times they be) ye ſhal carie the<g ref="char:cmbAbbrStroke">̄</g> into the churche yard or into ſome garde<g ref="char:cmbAbbrStroke">̄</g> or vpon the leades of the church, and laye the<g ref="char:cmbAbbrStroke">̄</g> a<g ref="char:EOLhyphen"/>brode one by one vpon a fayre cloth to take the ſun and then beſtowe the<g ref="char:cmbAbbrStroke">̄</g> vp agayne.</p>
+            <p>Ite<g ref="char:cmbAbbrStroke">̄</g> ye muſt prouide a net of ſilke or fine threde to leye on them in the time of driynge and alſo to wache warely for feare that birdes ſhould take any of them awaie.</p>
+            <p>Item ye muſt conſider the wind whither it be great or in what quar<g ref="char:EOLunhyphen"/>ter it bloweth. For ſome wyndes be infectuous more then ſome, as the ſouthe, ſouth weſte, or ſoutheſt &amp; to take heade y<hi rend="sup">e</hi> none of them be blowe<g ref="char:cmbAbbrStroke">̄</g> awaie with the wind, for they be but light and of ſmale ſubſtaunce.</p>
+            <p>Item ye muſt marke wel y<hi rend="sup">e</hi> nu<g ref="char:cmbAbbrStroke">̄</g>bre of the<g ref="char:cmbAbbrStroke">̄</g>, y<hi rend="sup">e</hi> ye may put into the pixt as many as ye take out, and ſo ſhall ye be ſure that ye haue loſt none of the<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:180927:5"/>
+               <!-- PDF PAGE 44 -->Item you ſhal remember y<hi rend="sup">e</hi> ye muſt all wayes haue an od God, for they maye not be euen in numbre.</p>
+            <p>Item if they be mold or muſty or grene or euil coloured, ye ſhal wype the<g ref="char:cmbAbbrStroke">̄</g> w<hi rend="sup">t</hi> a fine cloth vpo<g ref="char:cmbAbbrStroke">̄</g> a fram made of four ſtickes &amp; ley the<g ref="char:cmbAbbrStroke">̄</g> on it one by one eche one by him ſelfe &amp; hold the ſame frame ouer a chafingediſhe of coles into y<hi rend="sup">e</hi> which coles ye ſhal caſt the pouder of brimſtone which wyll make the<g ref="char:cmbAbbrStroke">̄</g> white againe but ye muſt remember to torne them oft.</p>
+            <p>Item it ſhalbe co<g ref="char:cmbAbbrStroke">̄</g>uement for you to know how to preſerue the<g ref="char:cmbAbbrStroke">̄</g> fro<g ref="char:cmbAbbrStroke">̄</g> mi<g ref="char:EOLunhyphen"/>tes or wormes which thing ye may wel do if it be poſſible on this wiſe. Ye ſhal anoint or rub the inner ſide of y<hi rend="sup">e</hi> pixt or cup wherein, ye kepe the<g ref="char:cmbAbbrStroke">̄</g> w<hi rend="sup">t</hi> a lytel wormwode, tanſey or rue, in time of yere whe<g ref="char:cmbAbbrStroke">̄</g> ye may haue the herbes. And when ye can not cume by the herbes conueniently, the<g ref="char:cmbAbbrStroke">̄</g> ſhal ye take a litel of the pouder of min<g ref="char:EOLhyphen"/>tes and ſtrewe amonge them, or the
+<pb facs="tcp:180927:6"/>
+               <!-- PDF PAGE 45 -->pouder of coloquintida whyche is white &amp; wil agre wel w<hi rend="sup">t</hi> the colour of the<g ref="char:cmbAbbrStroke">̄</g> &amp; wyl not ſuffer anye wormes to breade where it is, by the meanes of the bitternes thereof.</p>
+            <p>Item ye ſhal take good hede and reme<g ref="char:cmbAbbrStroke">̄</g>ber vnto whom and what per<g ref="char:EOLhyphen"/>ſons theſe that be ſo trimmed ought to be miniſtred for if ye ſhall mini<g ref="char:EOLhyphen"/>ſter them to heal they and well ta<g ref="char:EOLhyphen"/>ſting perſons it wil be eaſily eſpied, and may peraduentre cauſe the<g ref="char:cmbAbbrStroke">̄</g> to ſpit them out agayne whereof may ariſe diuerſe in conueniences wher<g ref="char:EOLhyphen"/>fore ye ſhall all waye kepe them for ſicke folke and ſuche as can not ſa<g ref="char:EOLhyphen"/>uoure thinges wel in ther mouthes (for they wyl impute it to their euyl taſt) ye &amp; it may ſo proue that they maye the ſoner recouer theyr health for by y<hi rend="sup">e</hi> bitternes &amp; proprietie ther<g ref="char:EOLhyphen"/>of they beynge prouoked to laxe or vomite may eiecte and caſt out ſuch humors as be the cauſe of their ſick<g ref="char:EOLunhyphen"/>nes &amp; ſo become hole whcihe thinge
+<pb facs="tcp:180927:6"/>
+               <!-- PDF PAGE 45 -->the comon people wyll repute as a greate miracle and giue much glo<g ref="char:EOLhyphen"/>ry to your goddes therefore.</p>
+            <p>Item to auoyde the miſhappes that might betide them by vermyne as mouſe, rat, weſel, munkay or ſpa<g ref="char:EOLunhyphen"/>niel ye muſt be circu<g ref="char:cmbAbbrStroke">̄</g>ſpecte and take hede on euery hand eſpecially when ye take them out or put them in the boxe and loke that ye leaue none a<g ref="char:EOLhyphen"/>brode, for ofte tymes it hath be ſene that they haue benne deuoured by ſuche meane and wyth ſuche kynde of vermine.</p>
+            <p>Item ye oughte to caſte an eye to<g ref="char:EOLhyphen"/>ward your God when ye be in your biſy memento &amp; after the leuation, for whilſe ye wincke and hold your handes before youre noſe and eies, it may chaunce ſome robin redbreſt (whiche amonge all other birdes is moſt hardy, ſauce, pert and homely) to ſeaſon vpon it &amp; flie away cleane therewith whiche done ye knowe in what perilous and daungerous caſe
+<pb facs="tcp:180927:7"/>
+               <!-- PDF PAGE 46 -->ye ſtande in. Wherefore it ſtandeth in youre hande to be well ware and wiſe therof.</p>
+            <p>Ite<g ref="char:cmbAbbrStroke">̄</g> if ye haue any tame ſparowe or other thinge which is familier with you, take good hede to them or eles leaue them at home for the time, for ſtraunge things hath happened by ſuche, to the diſworſhippe of youre goddes.</p>
+            <p>Item haue in minde that whyle he lieth on the altare, ye ſet the fote of the chalice vpon the edg of your God, leſt the wind by whipynge ſo<g ref="char:EOLhyphen"/>denly get vnder him &amp; blowe him a way or about the chauncel to youre ſhame &amp; diſhonour of your goddes which he defe<g ref="char:cmbAbbrStroke">̄</g>d that dwelleth in the pixt aboue, dayly ſenſing in &amp; out bi a ſtryng betwene the altare and the roffe, to whom be honoure worſhip and prayſe worthye Amen.</p>
+            <p>If any or al of theſe wil not healpe: then ye muſt vſe your olde order of burning, or buriyng of them, wher<g ref="char:EOLhyphen"/>in
+<pb facs="tcp:180927:7"/>
+               <!-- PDF PAGE 46 -->I know wel ye be expert inough and ſo well practiſed y<hi rend="sup">e</hi> I nede not to inſtruct you ther in, or ſhewe you any thyng therto belonginge.</p>
+            <p>☞ Theſe haue I wrytte<g ref="char:cmbAbbrStroke">̄</g> to you vn<g ref="char:EOLhyphen"/>deſired to thend that ye ſhoulde a<g ref="char:EOLhyphen"/>uoyde ſlannder and infamy. More ſhal ye haue ſhortly God willinge, the whiche I thinke wilbe very ne<g ref="char:EOLhyphen"/>ceſſary for you. And be you aſſured that as long as I am able to wryte ſay or do: ye ſhal not fayle of healp or ayde after the blout ſorte as ye ſe I haue ſhewed in this litel treatiſe, the which I doubt not ye wil acept none other wiſe the<g ref="char:cmbAbbrStroke">̄</g> I iudge in you to do, for ſure I am that ye forget me not in your prayers and benedi<g ref="char:EOLhyphen"/>tions, wherein ye be more beſy and deuout then I woulde ye ſhould be for my parte. Neuertheleſſe I truſt I ſpede not the worſſe for them but the better, by defe<g ref="char:cmbAbbrStroke">̄</g>ce and goodnes of the Lord Ieſus Chriſte, who ſitteth on the right hand of God the father
+<pb facs="tcp:180927:8" rendition="simple:additions"/>
+               <!-- PDF PAGE 47 -->with the holy goſt and from thence ſhall come a very man vnite wythe his godhead, to iudge all the world in whoſe ſight al vile falſe and ſtin<g ref="char:EOLunhyphen"/>kyng godes and Idoles with their worſhippers and makers ſhalbe co<g ref="char:cmbAbbrStroke">̄</g> founded, And vnto him with the father and the holy ſpirite be ho<g ref="char:EOLhyphen"/>noure and praiſe for euer and euer and to all that beleue only in hym eternal ioye thorowe the ſame Lorde Ieſus Chriſte. A<g ref="char:EOLhyphen"/>men.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
